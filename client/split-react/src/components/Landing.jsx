@@ -9,6 +9,7 @@ function Landing(){
             <h3>Start by creating group</h3>
             <button className="button-landing" onClick={() => navigate("/groups")}>Click here to start using</button>
         </div>
+        ///server
     )
 }
 export default Landing;
